@@ -1,0 +1,19 @@
+
+.mx{
+  background-color: navy;
+  border-color: navy;
+  color: white;
+}
+
+.mx1:hover {
+  cursor: pointer;
+  color: red;
+}
+.img1 {
+        width: 300px;
+        object-position: center;
+      }
+.img2 {
+  width: 30px;
+}
+
